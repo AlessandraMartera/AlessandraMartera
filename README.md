@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlessandraMartera
-- 🔭 I’m a Junior Java Developer!
+- 🔭 I’m a Junior full stack Developer!
 - 🏆 I just successfully completed an intensive 6-month web development bootcamp at Boolean!
 - 🌱 I am studying and recently completed an Experis Node.js course with React.js and Express.js.
 - 💻 In this moment, I work as a junior full stack developer for a client of ABS - Advance Business Solutions, Zanichelli Editore in Bologna
