@@ -9,8 +9,6 @@
 email: ale.martera@gmail.com <br>
 linkedin: [AlessandraMartera](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlessandraMartera&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 <!---
 AlessandraMartera/AlessandraMartera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
